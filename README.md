@@ -1,0 +1,1 @@
+# approov-ios-sdk-bitcode
