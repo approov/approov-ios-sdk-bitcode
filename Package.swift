@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "Approov",
             url: "https://github.com/approov/approov-ios-sdk-bitcode/releases/download/" + releaseTAG + "/Approov.xcframework.zip",
-            checksum : "af97ecefe3499073d04682c136dfeb1ce4f92e8f9dd330823effcd2a0615f3c1"
+            checksum : "dfc227c46dcd7d73fe0f5ae2c67c81a86c78f0904e0bad738a5c0b858ec6960e"
             ),
     ]
 )
