@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "approov-ios-sdk-bitcode"
-  s.version      = "2.6.1"
+  s.version = "2.6.1"
   s.summary      = "ApproovSDK iOS framework - bitcode support version"
   s.description  = <<-DESC
                   Approov mobile attestation framework for iOS with bitcode support
