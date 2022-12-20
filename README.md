@@ -7,7 +7,7 @@ Example Podfile:
 target 'YourTestApp' do
     use_frameworks!
     platform :ios
-    pod 'approov-ios-sdk-bitcode', '3.0.0', :source => "https://github.com/approov/approov-ios-sdk-bitcode.git"
+    pod 'approov-ios-sdk-bitcode', '3.1.0', :source => "https://github.com/approov/approov-ios-sdk-bitcode.git"
 end
 ```
 
@@ -16,14 +16,14 @@ The native version of this library is located at https://github.com/approov/appr
 If you would like to add the Approov SDK as a binary dependency in your `swift package`, add this line to your `targets` section:
 
 ```swift
-let releaseTAG = "3.0.0"
+let releaseTAG = "3.1.0"
 ...
 ...
 ...
 .binaryTarget(
             name: "Approov",
             url: "https://github.com/approov/approov-ios-sdk-bitcode/releases/download/" + releaseTAG + "/Approov.xcframework.zip",
-            checksum : "ee9e432bca8060f109d00c04bbd28766dda6a38612d5056d737f54000e01f311"
+            checksum : "f708722e2aa25102d4b92c97959e4c0d7abaa934d0413dd4e5f7a04c04c0410f"
         )
 
 
