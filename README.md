@@ -23,7 +23,7 @@ let releaseTAG = "3.1.0"
 .binaryTarget(
             name: "Approov",
             url: "https://github.com/approov/approov-ios-sdk-bitcode/releases/download/" + releaseTAG + "/Approov.xcframework.zip",
-            checksum : "f708722e2aa25102d4b92c97959e4c0d7abaa934d0413dd4e5f7a04c04c0410f"
+            checksum : "b1c17d399cc6491ace55833b23378f740439c36bc90afeea3351a76d6839c94e"
         )
 
 
