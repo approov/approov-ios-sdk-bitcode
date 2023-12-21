@@ -1,5 +1,8 @@
-# Approov SDK
-Bitcode enabled ApproovSDK binary release for iOS including podspec files.
+# Approov Bitcode SDK
+
+> **IMPORTANT:** Bitcode is no longer supported by Approov from the SDK 3.2.0 and above.
+
+Bitcode enabled Approov SDK binary release for iOS including podspec files.
 
 Example Podfile:
 
